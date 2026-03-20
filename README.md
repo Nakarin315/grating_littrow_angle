@@ -16,6 +16,7 @@ where:
 * m = diffraction order  
 * λ = wavelength  
 * d = grating spacing 
+<img width="269" height="278" alt="image" src="https://github.com/user-attachments/assets/bebd37e2-06d2-481e-b637-a14ab7378ade" />
 
 ---
 
